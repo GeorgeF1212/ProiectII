@@ -1,0 +1,16 @@
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CHW.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Form1.resx
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Form1.cs
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Form1.Designer.cs
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doctor.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewCase.resources

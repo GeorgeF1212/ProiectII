@@ -1,0 +1,16 @@
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Login.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.CHW.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Doctor.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.NewCase.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Login.resx
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Login.cs
+C:\Users\GeorgeF\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Login.Designer.cs
